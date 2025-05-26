@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Ноутбук HP Pavilion",
+    "price": 54999,
+    "description": "15.6 дюймов, Intel Core i5, 8 ГБ RAM, 512 ГБ SSD",
+    "image": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 2,
+    "title": "Смартфон Samsung Galaxy S21",
+    "price": 69999,
+    "description": "6.2 дюйма, 128 ГБ, Phantom Gray",
+    "image": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 3,
+    "title": "Наушники Sony WH-1000XM4",
+    "price": 24990,
+    "description": "Беспроводные, с шумоподавлением",
+    "image": "https://via.placeholder.com/300"
+  }
+]
